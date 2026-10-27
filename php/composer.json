@@ -1,0 +1,13 @@
+{
+    "name": "miguel/calculadora-php",
+    "description": "Calculadora com as 4 operações básicas para estudo de testes de unidade",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
